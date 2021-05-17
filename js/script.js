@@ -43,7 +43,7 @@ if(true)
 {
 var message="hello"
 }
-console.log(message)
+console.log("test")
 
 
 
