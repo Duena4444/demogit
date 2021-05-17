@@ -29,7 +29,7 @@ function add(a,b)//pass by
     let sum=a+b
     console.log("inside add()")
    // console.log(sum)
-    return sum//to return a value
+    return sum//to return a value 
 } let result=add(2,4)
 console.log("result=", result)
 console.log(add(2,3))
